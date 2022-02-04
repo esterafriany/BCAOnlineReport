@@ -21,6 +21,7 @@ class AuditTrail extends CI_Controller {
 	{
 		$data['audits']=$this->m_audit_trail->get_all_audit_trail();
 		$this->load->view('list_audit_trail',$data);
+		
 	}
 
 }
