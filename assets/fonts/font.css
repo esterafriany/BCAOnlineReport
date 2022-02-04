@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'Foglihten068';
+	src: url('./Foglihten068.eot');
+	src: local('Foglihten068'), url('./Foglihten068.woff') format('woff'), url('./Foglihten068.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_57985">Text with this font applied</p> */
+.fontsforweb_fontid_57985 {
+	font-family: 'Foglihten068' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */
